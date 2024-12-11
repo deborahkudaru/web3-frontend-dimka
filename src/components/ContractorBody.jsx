@@ -5,7 +5,7 @@ import WelcomeCard from "./WelcomCard"
 
 function ContractorBody(){
     return <div className="bg-white m-[28px] p-[15px] rounded-3xl flex">
-        <div>
+        <div className="max-w-[500px]">
             <WelcomeCard />
             <ProjectName />
             <RecentProjects />

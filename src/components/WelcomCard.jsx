@@ -13,7 +13,7 @@ function WelcomeCard() {
           <img src={image3} alt="" />
         </div>
       </div>
-      <div className="bg-gradient-to-r  from-[#00644C] to-[#00B24E] text-white flex gap-20 py-2 px-3 rounded-lg">
+      <div className="bg-gradient-to-r  from-[#00644C] to-[#00B24E] text-white flex gap-10 py-2 px-3 rounded-lg">
         <div className="flex flex-col gap-1 mt-5 mb-2">
           <p className="text-[15px] opacity-75">0xdafea492d9c6733ae3d56b7ed1a...</p>
           <p className="text-[15px] font-semibold">Available Balance</p>

@@ -16,7 +16,7 @@ function ProjectName() {
             <p className="text-[10px] border border-gray-600 py-1 px-3 rounded-lg">21-11-24</p>
           </div>
         </div>
-        <p className="text-[14px] leading-6 w-[529px]">
+        <p className="text-[14px] leading-6 max-w-[478px]">
           Description is set to handle upto 3 lines of text. Now you can add
           long description upto 3 lines Sorem ipsum dolor sit amet, consectetur
           adipiscing elit.
